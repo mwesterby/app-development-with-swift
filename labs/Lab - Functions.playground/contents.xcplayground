@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Exercise - Create Functions'/>
+        <page name='2. App Exercise - A Functioning App'/>
+        <page name='3. Exercise - Parameters and Argument Labels'/>
+        <page name='4. App Exercise - Progress Updates'/>
+        <page name='5. Exercise - Return Values'/>
+        <page name='6. App Exercise - Separating Functions'/>
+    </pages>
+</playground>

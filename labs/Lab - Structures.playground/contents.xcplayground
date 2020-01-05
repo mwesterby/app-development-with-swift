@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Exercise - Structs, Instances, and Default Values'/>
+        <page name='2. App Exercise - Workout Tracking'/>
+        <page name='3. Exercise - Memberwise and Custom Initializers'/>
+        <page name='4. App Exercise - Users and Distance'/>
+        <page name='5. Exercise - Methods'/>
+        <page name='6. App Exercise - Workout Functions'/>
+        <page name='7. Exercise - Computed Properties and Property Observers'/>
+        <page name='8. App Exercise - Mile Times and Congratulations'/>
+        <page name='9. Exercise - Type Properties and Methods'/>
+        <page name='10. App Exercise - Type Properties and Methods'/>
+    </pages>
+</playground>
