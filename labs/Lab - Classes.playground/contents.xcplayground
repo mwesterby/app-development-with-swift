@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Exercise - Define a Base Class'/>
+        <page name='2. Exercise - Create a Subclass'/>
+        <page name='3. Exercise - Override Methods and Properties'/>
+        <page name='4. Exercise - Class Memberwise Initializers and References'/>
+    </pages>
+</playground>
