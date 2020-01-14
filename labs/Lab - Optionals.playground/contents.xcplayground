@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Exercise - Optionals'/>
+        <page name='2. App Exercise - Finding a Heart Rate'/>
+        <page name='3. Exercise - Functions and Optionals'/>
+        <page name='4. App Exercise - Food Functions '/>
+        <page name='5. Exercise - Failable Initializers'/>
+        <page name='6. App Exercise - Workout or Nil'/>
+    </pages>
+</playground>
