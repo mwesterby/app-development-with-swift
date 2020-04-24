@@ -6,25 +6,25 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 
 
 ## Introduction to Swift
-- Classes
-- Closures
-- Collections
-- Enumerations
-- Extensions
-- Functions
-- Guard
-- Loops
-- Optionals
-- Protocols
-- Scope
-- Structures
-- Type Casting
+- [Classes](https://github.com/mwesterby/swift/tree/master/Swift/Classes)
+- [Closures](https://github.com/mwesterby/swift/tree/master/Swift/Closures)
+- [Collections](https://github.com/mwesterby/swift/tree/master/Swift/Collections)
+- [Enumerations](https://github.com/mwesterby/swift/tree/master/Swift/Enumerations)
+- [Extensions](https://github.com/mwesterby/swift/tree/master/Swift/Extensions)
+- [Functions](https://github.com/mwesterby/swift/tree/master/Swift/Functions)
+- [Guard](https://github.com/mwesterby/swift/tree/master/Swift/Guard)
+- [Loops](https://github.com/mwesterby/swift/tree/master/Swift/Loops)
+- [Optionals](https://github.com/mwesterby/swift/tree/master/Swift/Optionals)
+- [Protocols](https://github.com/mwesterby/swift/tree/master/Swift/Protocols)
+- [Scope](https://github.com/mwesterby/swift/tree/master/Swift/Scope)
+- [Structures](https://github.com/mwesterby/swift/tree/master/Swift/Structures)
+- [Type Casting](https://github.com/mwesterby/swift/tree/master/Swift/Type%20Casting)
 
 ## Introduction to iOS SDK
 
-- Interface Builder Basics
-- Displaying Data
-- Controls in Action
-- Auto Layout and Stack Views
-- Segues and Navigation Controllers
-- Tab Bar Controllers
+- [Interface Builder Basics](https://github.com/mwesterby/swift/tree/master/iOS%20SDK/Interface%20Builder%20Basics)
+- [Displaying Data](https://github.com/mwesterby/swift/tree/master/iOS%20SDK/Displaying%20Data)
+- [Controls in Action](https://github.com/mwesterby/swift/tree/master/iOS%20SDK/Controls%20in%20Action)
+- [Auto Layout and Stack Views](https://github.com/mwesterby/swift/tree/master/iOS%20SDK/Auto%20Layout%20and%20Stack%20Views)
+- [Segues and Navigation Controllers](https://github.com/mwesterby/swift/tree/master/iOS%20SDK/Segues%20and%20Navigation%20Controllers)
+- [Tab Bar Controllers](https://github.com/mwesterby/swift/tree/master/iOS%20SDK/Tab%20Bar%20Controllers)
