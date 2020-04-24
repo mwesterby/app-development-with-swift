@@ -1,5 +1,30 @@
-# Intro to App Developement with Swift
+# App Developement with Swift
 
-My solutions to the excercises in Apple's free [Intro to App Development with Swift](https://books.apple.com/us/book/intro-to-app-development-with-swift/id1118575552) textbook.
+My solutions to the excercises in Apple's free [App Development with Swift](https://books.apple.com/gb/book/app-development-with-swift/id1465002990) textbook.
 
-![Intro to App Development with Swift](https://is3-ssl.mzstatic.com/image/thumb/Publication113/v4/20/c7/0f/20c70f60-ebc6-a016-4eb3-0068d213800c/cover.jpg/313x0w.jpg)
+![App Development with Swift](https://is2-ssl.mzstatic.com/image/thumb/Publication113/v4/76/58/c7/7658c739-1bb0-4274-bd0b-0773b5c4a536/cover.jpg/268x0w.jpg)
+
+
+## Introduction to Swift
+- Classes
+- Closures
+- Collections
+- Enumerations
+- Extensions
+- Functions
+- Guard
+- Loops
+- Optionals
+- Protocols
+- Scope
+- Structures
+- Type Casting
+
+## Introduction to iOS SDK
+
+- Interface Builder Basics
+- Displaying Data
+- Controls in Action
+- Auto Layout and Stack Views
+- Segues and Navigation Controllers
+- Tab Bar Controllers
