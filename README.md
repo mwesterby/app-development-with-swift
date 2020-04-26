@@ -28,3 +28,5 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 - [Auto Layout and Stack Views](https://github.com/mwesterby/swift/tree/master/iOS%20SDK/Auto%20Layout%20and%20Stack%20Views)
 - [Segues and Navigation Controllers](https://github.com/mwesterby/swift/tree/master/iOS%20SDK/Segues%20and%20Navigation%20Controllers)
 - [Tab Bar Controllers](https://github.com/mwesterby/swift/tree/master/iOS%20SDK/Tab%20Bar%20Controllers)
+- [View Controller Life Cycle](https://github.com/mwesterby/swift/tree/master/iOS%20SDK/View%20Controller%20Life%20Cycle)
+- [Building Simple Workflows](https://github.com/mwesterby/swift/tree/master/iOS%20SDK/Building%20Simple%20Workflows)
