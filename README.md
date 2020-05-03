@@ -34,11 +34,9 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 ### 4. Tables and Persistance
 - [4.1 Protocols](https://github.com/mwesterby/swift/tree/master/Unit%204/4.1%20Protocols)
 - [4.2 App Anatomy and Life Cycle](https://github.com/mwesterby/swift/tree/master/Unit%204/4.2%20App%20Anatomy%20and%20Life%20Cycle)
+- [4.3 Model View Controller](https://github.com/mwesterby/swift/tree/master/Unit%204/4.3%20Model%20View%20Controller)
+- [4.4 Scroll Views](https://github.com/mwesterby/swift/tree/master/Unit%204/4.4%20Scroll%20Views)
 
 ### 5. Working with the Web
 - [5.1 Closures](https://github.com/mwesterby/swift/tree/master/Unit%205/5.1%20Closures)
 - [5.2 Extensions](https://github.com/mwesterby/swift/tree/master/Unit%205/5.2%20Extensions)
-
-
-
-
