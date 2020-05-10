@@ -38,6 +38,7 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 - [4.4 Scroll Views](https://github.com/mwesterby/swift/tree/master/Unit%204/4.4%20Scroll%20Views)
 - [4.5 Table Views](https://github.com/mwesterby/swift/tree/master/Unit%204/4.5%20Table%20Views)
 - [4.6 Intermediate Table Views](https://github.com/mwesterby/swift/tree/master/Unit%204/4.6%20Intermediate%20Table%20Views)
+- [4.7 Saving Data](https://github.com/mwesterby/swift/tree/master/Unit%204/4.7%20Saving%20Data)
 
 ### 5. Working with the Web
 - [5.1 Closures](https://github.com/mwesterby/swift/tree/master/Unit%205/5.1%20Closures)
