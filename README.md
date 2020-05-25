@@ -45,3 +45,4 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 ### 5. Working with the Web
 - [5.1 Closures](https://github.com/mwesterby/swift/tree/master/Unit%205/5.1%20Closures)
 - [5.2 Extensions](https://github.com/mwesterby/swift/tree/master/Unit%205/5.2%20Extensions)
+- [5.3 Practical Animation](https://github.com/mwesterby/swift/tree/master/Unit%205/5.3%20Practical%20Animation)
