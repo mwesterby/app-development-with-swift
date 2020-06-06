@@ -48,4 +48,4 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 - [5.3 Practical Animation](https://github.com/mwesterby/swift/tree/master/Unit%205/5.3%20Practical%20Animation)
 - [5.4 Working with the Web: HTTP and URL Session](https://github.com/mwesterby/swift/tree/master/Unit%205/5.4%20Working%20with%20the%20Web%20-%20HTTP%20and%20URL%20Session)
 - [5.5 Working with the Web: Decoding JSON](https://github.com/mwesterby/swift/tree/master/Unit%205/5.5%20Working%20with%20the%20Web%20-%20Decoding%20JSON)
-- [5.6 Working with the Web - Concurrency](https://github.com/mwesterby/swift/tree/master/Unit%205/5.6%20Working%20with%20the%20Web%20-%20Concurrency)
+- [5.6 Working with the Web: Concurrency](https://github.com/mwesterby/swift/tree/master/Unit%205/5.6%20Working%20with%20the%20Web%20-%20Concurrency)
