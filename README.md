@@ -1,4 +1,4 @@
-# App Developement with Swift
+# App Development with Swift
 
 My solutions to the excercises in Apple's free [App Development with Swift](https://books.apple.com/gb/book/app-development-with-swift/id1465002990) textbook.
 
