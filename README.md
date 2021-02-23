@@ -4,6 +4,7 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 
 ![App Development with Swift](https://is2-ssl.mzstatic.com/image/thumb/Publication113/v4/76/58/c7/7658c739-1bb0-4274-bd0b-0773b5c4a536/cover.jpg/268x0w.jpg)
 
+# Contents
 
 ## 1. Getting Started with App Development
 ### 1.8 Interface Builder Basics
@@ -13,31 +14,31 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 ## 2. Introduction to UIKit
 ### 2.1 Strings
 ### 2.2 Functions
-- [2.2.0 Functions (Lab)]()
-- [2.2.1 Create Functions (Exercise)]()
-- [2.2.2 A Functioning App (App Exercise)]()
-- [2.2.3 Parameters and Argument Labels (Exercise)]()
-- [2.2.4 Progress Updates (App Exercise)]()
-- [2.2.5 Return Values (Exercise)]()
-- [2.2.6 Separating Functions (App Exercise)]()
+- [2.2.0 Functions (Lab)](https://github.com/mwesterby/app-development-with-swift/tree/master/Unit%202/2.2%20Functions/Lab%20-%20Functions.playground/Pages)
+- [2.2.1 Create Functions (Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.2%20Functions/exercise-1.playground/Contents.swift)
+- [2.2.2 A Functioning App (App Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.2%20Functions/exercise-2.playground/Contents.swift)
+- [2.2.3 Parameters and Argument Labels (Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.2%20Functions/exercise-3.playground/Contents.swift)
+- [2.2.4 Progress Updates (App Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.2%20Functions/exercise-4.playground/Contents.swift)
+- [2.2.5 Return Values (Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.2%20Functions/exercise-5.playground/Contents.swift)
+- [2.2.6 Separating Functions (App Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.2%20Functions/exercise-6.playground/Contents.swift)
 ### 2.3 Structures
-- [2.3.0 Structures (Lab)]()
-- [2.3.1 Structs, Instances, and Default Values (Exercise)]()
-- [2.3.2 Workout Tracking (App Exercise)]()
-- [2.3.3 Memberwise and Custom Initializers (Exercise)]()
-- [2.3.4 Users and Distance (App Exercise)]()
-- [2.3.5 Methods (Exercise)]()
-- [2.3.6 Workout Functions (App Exercise)]()
-- [2.3.7 Computed Properties and Property Observers (Exercise)]()
-- [2.3.8 Mile Times and Congratulations (App Exercise)]()
-- [2.3.9 Type Properties and Methods (Exercise)]()
-- [2.3.10 Type Properties and Methods (App Exercise)]()
+- [2.3.0 Structures (Lab)](https://github.com/mwesterby/app-development-with-swift/tree/master/Unit%202/2.3%20Structures/Lab%20-%20Structures.playground/Pages)
+- [2.3.1 Structs, Instances, and Default Values (Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.3%20Structures/exercise-1.playground/Contents.swift)
+- [2.3.2 Workout Tracking (App Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.3%20Structures/exercise-2.playground/Contents.swift)
+- [2.3.3 Memberwise and Custom Initializers (Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.3%20Structures/exercise-3.playground/Contents.swift)
+- [2.3.4 Users and Distance (App Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.3%20Structures/exercise-4.playground/Contents.swift)
+- [2.3.5 Methods (Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.3%20Structures/exercise-5.playground/Contents.swift)
+- [2.3.6 Workout Functions (App Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.3%20Structures/exercise-6.playground/Contents.swift)
+- [2.3.7 Computed Properties and Property Observers (Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.3%20Structures/exercise-7.playground/Contents.swift)
+- [2.3.8 Mile Times and Congratulations (App Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.3%20Structures/exercise-8.playground/Contents.swift)
+- [2.3.9 Type Properties and Methods (Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.3%20Structures/exercise-9.playground/Contents.swift)
+- [2.3.10 Type Properties and Methods (App Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.3%20Structures/exercise-10.playground/Contents.swift)
 ### 2.4 Classes, Inheritance
-- [2.4.0 Classes (Lab)]()
-- [2.4.1 Define a Base Class (Exercise)]()
-- [2.4.2 Create a Subclass (Exercise)]()
-- [2.4.3 Override Methods and Properties (Exercise)]()
-- [2.4.4 Class Memberwise Initializers and References (Exercise)]()
+- [2.4.0 Classes (Lab)](https://github.com/mwesterby/app-development-with-swift/tree/master/Unit%202/2.4%20Classes%2C%20Inheritance/Lab%20-%20Classes.playground/Pages)
+- [2.4.1 Define a Base Class (Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.4%20Classes%2C%20Inheritance/exercise-1.playground/Contents.swift)
+- [2.4.2 Create a Subclass (Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.4%20Classes%2C%20Inheritance/exercise-2.playground/Contents.swift)
+- [2.4.3 Override Methods and Properties (Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.4%20Classes%2C%20Inheritance/exercise-3.playground/Contents.swift)
+- [2.4.4 Class Memberwise Initializers and References (Exercise)](https://github.com/mwesterby/app-development-with-swift/blob/master/Unit%202/2.4%20Classes%2C%20Inheritance/exercise-4.playground/Contents.swift)
 ### 2.5 Collections
 - [2.5.0 Collections (Lab)]()
 - [2.5.1 Arrays (Exercise)]()
