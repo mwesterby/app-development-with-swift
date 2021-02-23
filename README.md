@@ -6,89 +6,151 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 
 
 ## 1. Getting Started with App Development
-- [1.8 Interface Builder Basics](https://github.com/mwesterby/swift/tree/master/Unit%201/1.8%20Interface%20Builder%20Basics)
+### 1.8 Interface Builder Basics
+- [1.8.0 IBBasics (Lesson)]()
+- [1.8.1 InterfaceBuilderBasics (Lab)]()
 
 ## 2. Introduction to UIKit
 ### 2.1 Strings
 ### 2.2 Functions
-- [2.2.0 Lab]()
-- [2.2.1 Create Functions]()
-- [2.2.2 A Functioning App]()
-- [2.2.3 Parameters and Argument Labels]()
-- [2.2.4 Progress Updates]()
-- [2.2.5 Return Values]()
-- [2.2.6 Separating Functions]()
+- [2.2.0 Functions (Lab)]()
+- [2.2.1 Create Functions (Exercise)]()
+- [2.2.2 A Functioning App (App Exercise)]()
+- [2.2.3 Parameters and Argument Labels (Exercise)]()
+- [2.2.4 Progress Updates (App Exercise)]()
+- [2.2.5 Return Values (Exercise)]()
+- [2.2.6 Separating Functions (App Exercise)]()
 ### 2.3 Structures
-- [2.3.0 Lab]()
-- [2.3.1 Structs, Instances, and Default Values]()
-- [2.3.2 Workout Tracking]()
-- [2.3.3 Memberwise and Custom Initializers]()
-- [2.3.4 Users and Distance]()
-- [2.3.5 Methods]()
-- [2.3.6 Workout Functions]()
-- [2.3.7 Computed Properties and Property Observers]()
-- [2.3.8 Mile Times and Congratulations]()
-- [2.3.9 Type Properties and Methods]()
-- [2.3.10 Type Properties and Methods]()
+- [2.3.0 Structures (Lab)]()
+- [2.3.1 Structs, Instances, and Default Values (Exercise)]()
+- [2.3.2 Workout Tracking (App Exercise)]()
+- [2.3.3 Memberwise and Custom Initializers (Exercise)]()
+- [2.3.4 Users and Distance (App Exercise)]()
+- [2.3.5 Methods (Exercise)]()
+- [2.3.6 Workout Functions (App Exercise)]()
+- [2.3.7 Computed Properties and Property Observers (Exercise)]()
+- [2.3.8 Mile Times and Congratulations (App Exercise)]()
+- [2.3.9 Type Properties and Methods (Exercise)]()
+- [2.3.10 Type Properties and Methods (App Exercise)]()
 ### 2.4 Classes, Inheritance
-- [2.4.0 Lab]()
-- [2.4.1 Define a Base Class]()
-- [2.4.2 Create a Subclass]()
-- [2.4.3 Override Methods and Properties]()
-- [2.4.4 Class Memberwise Initializers and References]()
+- [2.4.0 Classes (Lab)]()
+- [2.4.1 Define a Base Class (Exercise)]()
+- [2.4.2 Create a Subclass (Exercise)]()
+- [2.4.3 Override Methods and Properties (Exercise)]()
+- [2.4.4 Class Memberwise Initializers and References (Exercise)]()
 ### 2.5 Collections
-- [2.5.0 Lab]()
-- [2.5.1 Arrays]()
-- [2.5.2 Activity Challenge]()
-- [2.5.3 Dictionaries]()
-- [2.5.4 Pacing]()
+- [2.5.0 Collections (Lab)]()
+- [2.5.1 Arrays (Exercise)]()
+- [2.5.2 Activity Challenge (App Exercise)]()
+- [2.5.3 Dictionaries (Exercise)]()
+- [2.5.4 Pacing (App Exercise)]()
 ### 2.6 Loops
-- [2.6.0 Lab]()
-- [2.6.1 For-In Loops]()
-- [2.6.2 Movements]()
-- [2.6.3 While Loops]()
-- [2.6.4 While Loops]()
-- [2.6.5 Control Transfer Statements]()
-- [2.6.6 Finding Movements]()
+- [2.6.0 Loops (Lab)]()
+- [2.6.1 For-In Loops (Exercise)]()
+- [2.6.2 Movements (App Exercise)]()
+- [2.6.3 While Loops (Exercise)]()
+- [2.6.4 While Loops (App Exercise)]()
+- [2.6.5 Control Transfer Statements (Exercise)]()
+- [2.6.6 Finding Movements (App Exercise)]()
 ### 2.7 Introduction to UIKit
 ### 2.8 Displaying Data
-- [2.8.0 Hello]()
+- [2.8.0 Hello (Lesson)]()
 ### 2.9 Controls in Action
-- [2.9.0 CommonInputControls]()
-- 2.9.1 Two Buttons
+- [2.9.0 CommonInputControls (Lesson)]()
+- 2.9.1 Two Buttons (Lab)
 ### 2.10 Auto Layout and Stack Views
-- [2.10.0 AutoLayoutPractice]()
-- [2.10.1 Calculator]()
+- [2.10.0 AutoLayoutPractice (Lesson)]()
+- [2.10.1 Calculator (Lab)]()
 
 ## 3. Navigation and Workflows
-- [3.1 Optionals](https://github.com/mwesterby/swift/tree/master/Unit%203/3.1%20Optionals)
-- [3.2 Type Casting and Inspection](https://github.com/mwesterby/swift/tree/master/Unit%203/3.2%20Type%20Casting%20and%20Inspection)
-- [3.3 Guard](https://github.com/mwesterby/swift/tree/master/Unit%203/3.3%20Guard)
-- [3.4 Constant and Variable Scope](https://github.com/mwesterby/swift/tree/master/Unit%203/3.4%20Constant%20and%20Variable%20Scope)
-- [3.5 Enumerations](https://github.com/mwesterby/swift/tree/master/Unit%203/3.5%20Enumerations)
-- [3.6 Segues and Navigation Controllers](https://github.com/mwesterby/swift/tree/master/Unit%203/3.6%20Segues%20and%20Navigation%20Controllers)
-- [3.7 Tab Bar Controllers](https://github.com/mwesterby/swift/tree/master/Unit%203/3.7%20Tab%20Bar%20Controllers)
-- [3.8 View Controller Life Cycle](https://github.com/mwesterby/swift/tree/master/Unit%203/3.8%20View%20Controller%20Life%20Cycle)
-- [3.9 Building Simple Workflows](https://github.com/mwesterby/swift/tree/master/Unit%203/3.9%20Building%20Simple%20Workflows)
+### 3.1 Optionals
+- [3.1.0 Optionals (Lab)]()
+- [3.1.1 Optionals (Exercise)]()
+- [3.1.2 Finding a Heart Rate (App Exercise)]()
+- [3.1.3 Functions and Optionals (Exercise)]()
+- [3.1.4 Food Functions (App Exercise)]()
+- [3.1.5 Failable Initializers (Exercise)]()
+- [3.1.6 Workout or Nil (App Exercise)]()
+### 3.2 Type Casting and Inspection
+- [3.2.0 Type Casting (Lab)]()
+- [3.2.1 Type Casting and Inspection (Exercise)]()
+- [3.2.2 Workout Types (App Exercise)]()
+### 3.3 Guard
+- [3.3.0 Guard (Lab)]()
+- [3.3.1 Guard Statements (Exercise)]()
+- [3.3.2 Guard (App Exercise)]()
+### 3.4 Constant and Variable Scope
+- [3.4.0 Scope (Lab)]()
+- [3.4.1 Scope (Exercise)]()
+- [3.4.2 Step Competition (App Exercise)]()
+### 3.5 Enumerations
+- [3.5.0 Enumerations (Lab)]()
+- [3.5.1 Enumerations (Exercise)]()
+- [3.5.2 Swimming Workouts (App Exercise)]()
+### 3.6 Segues and Navigation Controllers
+- [3.6.0 TrafficSegues (Lesson)]()
+- 3.6.1 Login (Lab)
+### 3.7 Tab Bar Controllers
+- [3.7.0 RainbowTabs (Lesson)]()
+- 3.7.1 AboutMe (Lab)
+### 3.8 View Controller Life Cycle
+- [3.8.0 LifeCycle (Lesson)]()
+- [3.8.1 OrderOfEvents (Lab)]()
+### 3.9 Building Simple Workflows
+- [3.9.1 PizzaDelivery (Lab)]()
 
 ## 4. Tables and Persistance
-- [4.1 Protocols](https://github.com/mwesterby/swift/tree/master/Unit%204/4.1%20Protocols)
-- [4.2 App Anatomy and Life Cycle](https://github.com/mwesterby/swift/tree/master/Unit%204/4.2%20App%20Anatomy%20and%20Life%20Cycle)
-- [4.3 Model View Controller](https://github.com/mwesterby/swift/tree/master/Unit%204/4.3%20Model%20View%20Controller)
-- [4.4 Scroll Views](https://github.com/mwesterby/swift/tree/master/Unit%204/4.4%20Scroll%20Views)
-- [4.5 Table Views](https://github.com/mwesterby/swift/tree/master/Unit%204/4.5%20Table%20Views)
-- [4.6 Intermediate Table Views](https://github.com/mwesterby/swift/tree/master/Unit%204/4.6%20Intermediate%20Table%20Views)
-- [4.7 Saving Data](https://github.com/mwesterby/swift/tree/master/Unit%204/4.7%20Saving%20Data)
-- [4.8 System View Controllers](https://github.com/mwesterby/swift/tree/master/Unit%204/4.8%20System%20View%20Controllers)
-- [4.9 Building Complex Input Screens](https://github.com/mwesterby/swift/tree/master/Unit%204/4.9%20Building%20Complex%20Input%20Screens)
+### 4.1 Protocols
+- [4.1.0 Protocols (Lab)]()
+- [4.1.1 Adopt Protocols: CustomStringConvertible, Equatable, and Comparable (Exercise)]()
+- [4.1.2 Printable Workouts (App Exercise)]()
+- [4.1.3 Create a Protocol (Exercise)]()
+- [4.1.4 Similar Workouts (App Exercise)]()
+- [4.1.5 Heart Rate Delegate (App Exercise)]()
+### 4.2 App Anatomy and Life Cycle
+- [4.2.0 AppLifeCycle (Lesson)]()
+- [4.2.1 AppEventCount (Lab)]()
+### 4.3 Model View Controller
+- [4.3.1 FavoriteAthlete (Lab)]()
+### 4.4 Scroll Views
+- [4.4.0 ScrollingForm (Lesson)]()
+- [4.4.1 ISpy (Lab)]()
+### 4.5 Table Views
+- [4.5.0 EmojiDictionary (Lesson)]()
+- [4.5.1 Meal Tracker (Lab)]()
+### 4.6 Intermediate Table Views
+- [4.6.0 EmojiDictionary (Lesson)]()
+- [4.6.1 FavoriteBook (Lab)]()
+### 4.7 Saving Data
+- [4.7.0 PersistencePractice (Lesson)]()
+- [4.7.1 EmojiDictionary (Lab)]()
+### 4.8 System View Controllers
+- [4.8.0 SystemViewControllers (Lesson)]()
+- [4.8.1 HomeFurniture (Lab)]()
+### 4.9 Building Complex Input Screens
+- [4.9.0 HotelManzana (Lesson)]()
+- [4.9.1 EmployeeRoster (Lab)]()
 
 ## 5. Working with the Web
-- [5.1 Closures](https://github.com/mwesterby/swift/tree/master/Unit%205/5.1%20Closures)
-    - [Exercise 1]()
-    - [Exercise 2]()
-- [5.2 Extensions](https://github.com/mwesterby/swift/tree/master/Unit%205/5.2%20Extensions)
-- [5.3 Practical Animation](https://github.com/mwesterby/swift/tree/master/Unit%205/5.3%20Practical%20Animation)
-- [5.4 Working with the Web: HTTP and URL Session](https://github.com/mwesterby/swift/tree/master/Unit%205/5.4%20Working%20with%20the%20Web%20-%20HTTP%20and%20URL%20Session)
-  - [Lab - iTunes Search]()
-- [5.5 Working with the Web: Decoding JSON](https://github.com/mwesterby/swift/tree/master/Unit%205/5.5%20Working%20with%20the%20Web%20-%20Decoding%20JSON)
-- [5.6 Working with the Web: Concurrency](https://github.com/mwesterby/swift/tree/master/Unit%205/5.6%20Working%20with%20the%20Web%20-%20Concurrency)
+### 5.1 Closures
+- [5.1.0 Closures (Lab)]()
+- [5.1.1 Create Closures (Exercise)]()
+- [5.1.2 Passing Closures as Arguments and Syntactic Sugar (Exercise)]()
+- [5.1.3 Collection Functions (Exercise)]()
+### 5.2 Extensions
+- [5.2.0 Extensions (Lab)]()
+- [5.2.1 Extensions (Exercise)]()
+- [5.2.2 Workout Extensions (App Exercise)]()
+### 5.3 Practical Animation
+- [5.3.0 FlyingSquares (Lesson)]()
+- [5.3.1 MusicWireframe (Lesson)]()
+- [5.3.2 Contest (Lab)]()
+### 5.4 Working with the Web: HTTP and URL Session
+- [5.4.0 Working with the Web (Lesson)]()
+- [5.4.1 iTunes Search (Lab)]()
+### 5.5 Working with the Web: Decoding JSON
+- [5.5.0 Working with the Web (Lesson)]()
+- [5.5.1 iTunes Search (Lab)]()
+### 5.6 Working with the Web: Concurrency
+- [5.6.0 SpacePhoto (Lesson)]()
+- [5.6.1 iTunes Search (Lab)]()
