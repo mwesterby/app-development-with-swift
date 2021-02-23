@@ -2,7 +2,8 @@ import UIKit
 
 import PlaygroundSupport
 
-PlaygroundPage.current.needsIndefiniteExecution = true
+//Playground still works without the need to set needsIndefiniteExecution to true
+//PlaygroundPage.current.needsIndefiniteExecution = true
 
 extension URL {
     func withQueries(_ queries:[String: String]) -> URL? {
@@ -27,7 +28,7 @@ let task = URLSession.shared.dataTask(with: url) { (data, response, error) in
     if let data = data, let string = String(data: data, encoding: .utf8) {
         print(string)
     }
-    PlaygroundPage.current.finishExecution()
+//    PlaygroundPage.current.finishExecution()
 }
 
 task.resume()
