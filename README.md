@@ -53,7 +53,6 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 - [2.6.4 While Loops (App Exercise)](./Unit%202/2.6%20Loops/exercise-4.playground/Contents.swift)
 - [2.6.5 Control Transfer Statements (Exercise)](./Unit%202/2.6%20Loops/exercise-5.playground/Contents.swift)
 - [2.6.6 Finding Movements (App Exercise)](./Unit%202/2.6%20Loops/exercise-6.playground/Contents.swift)
-- [2.6.6 Finding Movements (App Exercise)](./Unit%202/2.6%20Loops/exercise-6.playground/Contents.swift)
 #### 2.7 Introduction to UIKit
 #### 2.8 Displaying Data
 - [2.8.0 Hello (Lesson)](./Unit%202/2.8%20Displaying%20Data/Hello)
