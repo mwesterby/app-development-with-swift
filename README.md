@@ -7,6 +7,21 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 # Contents
 
 ## 1. Getting Started with App Development
+#### 1.1 Introduction to Swift and Playgrounds
+- [1.1.0 Hello, world! (Lesson)](./Unit%201/1.1%20Introduction%20to%20Swift%20and%20Playgrounds/Hello%2C%20world!.playground/Contents.swift)
+- [1.1.1 Use Playgrounds (Exercise)](./Unit%201/1.1%20Introduction%20to%20Swift%20and%20Playgrounds/Lab%20-%20Introduction.playground/Pages/1.%20Exercise%20-%20Use%20Playgrounds.xcplaygroundpage/Contents.swift)
+#### 1.2 Constants, Variables and Data Types
+- [1.2.0 Constants (Lab)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages)
+- [1.2.1 Constants (Exercise)](/Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/1.%20Exercise%20-%20Constants.xcplaygroundpage/Contents.swift)
+- [1.2.2 Step Goal (App Exercise)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/2.%20App%20Exercise%20-%20Step%20Goal.xcplaygroundpage/Contents.swift)
+- [1.2.3 Variables (Exercise)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/3.%20Exercise%20-%20Variables.xcplaygroundpage/Contents.swift)
+- [1.2.4 Step Count (App Exercise)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/4.%20App%20Exercise%20-%20Step%20Count.xcplaygroundpage/Contents.swift)
+- [1.2.5 Constant or Variable? (Exercise)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/5.%20Exercise%20-%20Constant%20Or%20Variable.xcplaygroundpage/Contents.swift)
+- [1.2.6 Fitness Tracker: Constant or Variable? (App Exercise)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/6.%20App%20Exercise%20-%20Constant%20or%20Variable.xcplaygroundpage/Contents.swift)
+- [1.2.7 Types and Type Safety (Exercise)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/7.%20Exercise%20-%20Types%20and%20Type%20Safety.xcplaygroundpage/Contents.swift)
+- [1.2.8 Tracking Different Types (App Exercise)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/8.%20App%20Exercise%20-%20Tracking%20Different%20Types.xcplaygroundpage/Contents.swift)
+- [1.2.9 Type Inference and Required Values (Exercise)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/9.%20Exercise%20-%20Type%20Inference%20and%20Required%20Values.xcplaygroundpage/Contents.swift)
+- [1.2.10 Percent Completed (App Exercise)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/10.%20App%20Exercise%20-%20Percent%20Completed.xcplaygroundpage/Contents.swift)
 #### 1.8 Interface Builder Basics
 - [1.8.0 IBBasics (Lesson)](./Unit%201/1.8%20Interface%20Builder%20Basics/IBBasics)
 - [1.8.1 InterfaceBuilderBasics (Lab)](./Unit%201/1.8%20Interface%20Builder%20Basics/InterfaceBuilderBasics)
