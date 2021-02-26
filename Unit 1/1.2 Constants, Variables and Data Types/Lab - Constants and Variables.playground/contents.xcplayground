@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Exercise - Constants'/>
+        <page name='2. App Exercise - Step Goal'/>
+        <page name='3. Exercise - Variables'/>
+        <page name='4. App Exercise - Step Count'/>
+        <page name='5. Exercise - Constant Or Variable'/>
+        <page name='6. App Exercise - Constant or Variable'/>
+        <page name='7. Exercise - Types and Type Safety'/>
+        <page name='8. App Exercise - Tracking Different Types'/>
+        <page name='9. Exercise - Type Inference and Required Values'/>
+        <page name='10. App Exercise - Percent Completed'/>
+    </pages>
+</playground>
