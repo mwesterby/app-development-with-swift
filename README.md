@@ -22,6 +22,17 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 - [1.2.8 Tracking Different Types (App Exercise)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/8.%20App%20Exercise%20-%20Tracking%20Different%20Types.xcplaygroundpage/Contents.swift)
 - [1.2.9 Type Inference and Required Values (Exercise)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/9.%20Exercise%20-%20Type%20Inference%20and%20Required%20Values.xcplaygroundpage/Contents.swift)
 - [1.2.10 Percent Completed (App Exercise)](./Unit%201/1.2%20Constants%2C%20Variables%20and%20Data%20Types/Lab%20-%20Constants%20and%20Variables.playground/Pages/10.%20App%20Exercise%20-%20Percent%20Completed.xcplaygroundpage/Contents.swift)
+#### 1.3 Operators
+- [1.3.0 Operators (Lab)](./Unit%201/1.3%20Operators/Lab%20-%20Operators.playground)
+- [1.3.1 Basic Arithmetic (Exercise)](./Unit%201/1.3%20Operators/Lab%20-%20Operators.playground/Pages/1.%20Exercise%20-%20Basic%20Arithmetic.xcplaygroundpage/Contents.swift)
+- [1.3.2 Fitness Calculations (App Exercise)](./Unit%201/1.3%20Operators/Lab%20-%20Operators.playground/Pages/2.%20App%20Exercise%20-%20Fitness%20Calculations.xcplaygroundpage/Contents.swift)
+- [1.3.3 Compound Assignment (Exercise)](./Unit%201/1.3%20Operators/Lab%20-%20Operators.playground/Pages/3.%20Exercise%20-%20Compound%20Assignment.xcplaygroundpage/Contents.swift)
+- [1.3.4 Counting (App Exercise)](./Unit%201/1.3%20Operators/Lab%20-%20Operators.playground/Pages/4.%20App%20Exercise%20-%20Counting.xcplaygroundpage/Contents.swift)
+- [1.3.5 Order of Operations (Exercise)](./Unit%201/1.3%20Operators/Lab%20-%20Operators.playground/Pages/5.%20Exercise%20-%20Order%20of%20Operations.xcplaygroundpage/Contents.swift)
+- [1.3.6 Complex Fitness Calculations (App Exercise)](./Unit%201/1.3%20Operators/Lab%20-%20Operators.playground/Pages/6.%20App%20Exercise%20-%20Complex%20Fitness%20Calculations.xcplaygroundpage/Contents.swift)
+- [1.3.7 Numeric Type Conversion (Exercise)](./Unit%201/1.3%20Operators/Lab%20-%20Operators.playground/Pages/7.%20Exercise%20-%20Numeric%20Type%20Conversion.xcplaygroundpage/Contents.swift)
+- [1.3.8 Converting Types (App Exercise)](./Unit%201/1.3%20Operators/Lab%20-%20Operators.playground/Pages/8.%20App%20Exercise%20-%20Fitness%20Conversions.xcplaygroundpage/Contents.swift)
+
 #### 1.8 Interface Builder Basics
 - [1.8.0 IBBasics (Lesson)](./Unit%201/1.8%20Interface%20Builder%20Basics/IBBasics)
 - [1.8.1 InterfaceBuilderBasics (Lab)](./Unit%201/1.8%20Interface%20Builder%20Basics/InterfaceBuilderBasics)
