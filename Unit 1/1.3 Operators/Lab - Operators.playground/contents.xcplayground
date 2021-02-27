@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Exercise - Basic Arithmetic'/>
+        <page name='2. App Exercise - Fitness Calculations'/>
+        <page name='3. Exercise - Compound Assignment'/>
+        <page name='4. App Exercise - Counting'/>
+        <page name='5. Exercise - Order of Operations'/>
+        <page name='6. App Exercise - Complex Fitness Calculations'/>
+        <page name='7. Exercise - Numeric Type Conversion'/>
+        <page name='8. App Exercise - Fitness Conversions'/>
+    </pages>
+</playground>
