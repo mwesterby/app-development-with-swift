@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Exercise - Logical Operators'/>
+        <page name='2. Exercise - If and If-Else Statements'/>
+        <page name='3. App Exercise - Fitness Decisions'/>
+        <page name='4. Exercise - Boolean Practice'/>
+        <page name='5. App Exercise - Target Heart Rate'/>
+        <page name='6. Switch Statements'/>
+        <page name='7. App Exercise - Heart Rate Zones'/>
+        <page name='8. Exercise - Ternary Operator'/>
+        <page name='9. App Exercise - Ternary Messages'/>
+    </pages>
+</playground>
