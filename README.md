@@ -32,6 +32,17 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 - [1.3.6 Complex Fitness Calculations (App Exercise)](./Unit%201/1.3%20Operators/Lab%20-%20Operators.playground/Pages/6.%20App%20Exercise%20-%20Complex%20Fitness%20Calculations.xcplaygroundpage/Contents.swift)
 - [1.3.7 Numeric Type Conversion (Exercise)](./Unit%201/1.3%20Operators/Lab%20-%20Operators.playground/Pages/7.%20Exercise%20-%20Numeric%20Type%20Conversion.xcplaygroundpage/Contents.swift)
 - [1.3.8 Converting Types (App Exercise)](./Unit%201/1.3%20Operators/Lab%20-%20Operators.playground/Pages/8.%20App%20Exercise%20-%20Fitness%20Conversions.xcplaygroundpage/Contents.swift)
+#### 1.4 Control Flow
+- [1.4.0 Control Flow (Lab)](./Unit%201/1.4%20Control%20Flow/Lab%20-%20Control%20Flow.playground/Pages)
+- [1.4.1 Logical Operators (Exercise)](./Unit%201/1.4%20Control%20Flow/Lab%20-%20Control%20Flow.playground/Pages/1.%20Exercise%20-%20Logical%20Operators.xcplaygroundpage/Contents.swift)
+- [1.4.2 If and If-Else Statements (Exercise)](./Unit%201/1.4%20Control%20Flow/Lab%20-%20Control%20Flow.playground/Pages/2.%20Exercise%20-%20If%20and%20If-Else%20Statements.xcplaygroundpage/Contents.swift)
+- [1.4.3 Fitness Decisions (App Exercise)](./Unit%201/1.4%20Control%20Flow/Lab%20-%20Control%20Flow.playground/Pages/3.%20App%20Exercise%20-%20Fitness%20Decisions.xcplaygroundpage/Contents.swift)
+- [1.4.4 Boolean Practice (Exercise)](./Unit%201/1.4%20Control%20Flow/Lab%20-%20Control%20Flow.playground/Pages/4.%20Exercise%20-%20Boolean%20Practice.xcplaygroundpage/Contents.swift)
+- [1.4.5 Target Heart Rate (App Exercise)](./Unit%201/1.4%20Control%20Flow/Lab%20-%20Control%20Flow.playground/Pages/5.%20App%20Exercise%20-%20Target%20Heart%20Rate.xcplaygroundpage/Contents.swift)
+- [1.4.6 Switch Statements (Exercise)](./Unit%201/1.4%20Control%20Flow/Lab%20-%20Control%20Flow.playground/Pages/6.%20Switch%20Statements.xcplaygroundpage/Contents.swift)
+- [1.4.7 Heart Rate Zones (App Exercise)](./Unit%201/1.4%20Control%20Flow/Lab%20-%20Control%20Flow.playground/Pages/7.%20App%20Exercise%20-%20Heart%20Rate%20Zones.xcplaygroundpage/Contents.swift)
+- [1.4.8 Ternary Operator (Exercise)](./Unit%201/1.4%20Control%20Flow/Lab%20-%20Control%20Flow.playground/Pages/8.%20Exercise%20-%20Ternary%20Operator.xcplaygroundpage/Contents.swift)
+- [1.4.9 Ternary Messages (App Exercise)](./Unit%201/1.4%20Control%20Flow/Lab%20-%20Control%20Flow.playground/Pages/9.%20App%20Exercise%20-%20Ternary%20Messages.xcplaygroundpage/Contents.swift)
 
 #### 1.8 Interface Builder Basics
 - [1.8.0 IBBasics (Lesson)](./Unit%201/1.8%20Interface%20Builder%20Basics/IBBasics)
