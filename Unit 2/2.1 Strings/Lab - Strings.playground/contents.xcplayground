@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Exercise - String Basics'/>
+        <page name='2. Exercise - Concatenation and Interpolation'/>
+        <page name='3. App Exercise - Notifications'/>
+        <page name='4. Exercise - String Equality and Comparison'/>
+        <page name='5. App Exercise - Password Entry and User Search'/>
+    </pages>
+</playground>
