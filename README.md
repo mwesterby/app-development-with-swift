@@ -50,6 +50,12 @@ My solutions to the excercises in Apple's free [App Development with Swift](http
 
 ## 2. Introduction to UIKit
 #### 2.1 Strings
+- [2.1.0 Strings (Lab)](./Unit%202/2.1%20Strings/Lab%20-%20Strings.playground/Pages)
+- [2.1.1 String Basics (Exercise)](./Unit%202/2.1%20Strings/Lab%20-%20Strings.playground/Pages/1.%20Exercise%20-%20String%20Basics.xcplaygroundpage/Contents.swift)
+- [2.1.2 Concatenation and Interpolation (Exercise)](./Unit%202/2.1%20Strings/Lab%20-%20Strings.playground/Pages/2.%20Exercise%20-%20Concatenation%20and%20Interpolation.xcplaygroundpage/Contents.swift)
+- [2.1.3 Notifications (App Exercise)](./Unit%202/2.1%20Strings/Lab%20-%20Strings.playground/Pages/3.%20App%20Exercise%20-%20Notifications.xcplaygroundpage/Contents.swift)
+- [2.1.4 String Equality and Comparison (Exercise)](./Unit%202/2.1%20Strings/Lab%20-%20Strings.playground/Pages/4.%20Exercise%20-%20String%20Equality%20and%20Comparison.xcplaygroundpage/Contents.swift)
+- [2.1.5 Password Entry and User Search (App Exercise)](./Unit%202/2.1%20Strings/Lab%20-%20Strings.playground/Pages/5.%20App%20Exercise%20-%20Password%20Entry%20and%20User%20Search.xcplaygroundpage/Contents.swift)
 #### 2.2 Functions
 - [2.2.0 Functions (Lab)](./Unit%202/2.2%20Functions/Lab%20-%20Functions.playground/Pages)
 - [2.2.1 Create Functions (Exercise)](./Unit%202/2.2%20Functions/exercise-1.playground/Contents.swift)
