@@ -1,6 +1,6 @@
 # App Development with Swift
 
-My solutions to the excercises in Apple's free [App Development with Swift](https://books.apple.com/gb/book/app-development-with-swift/id1465002990) textbook.
+My solutions to the exercises in Apple's free [App Development with Swift](https://books.apple.com/gb/book/app-development-with-swift/id1465002990) textbook.
 
 ![App Development with Swift](https://is2-ssl.mzstatic.com/image/thumb/Publication113/v4/76/58/c7/7658c739-1bb0-4274-bd0b-0773b5c4a536/cover.jpg/268x0w.jpg)
 
